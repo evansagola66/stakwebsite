@@ -42,3 +42,4 @@ If you like the template, please star this repository to inspire the team to cre
 
 ### ✨ Explore and Download - Free [Next.js Templates](https://nextjstemplates.com)
 # stakweb
+# stakweb
